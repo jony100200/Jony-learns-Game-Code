@@ -14,7 +14,8 @@ namespace Learning_02_04
             string race = string.Empty;
             string classType = string.Empty;
             string gender = string.Empty;
-            //asking the user 2 pick faction
+
+            //asking the user  pick faction a faction out of two.
             Console.WriteLine("Choose ur faction");
             Console.WriteLine("1.Shadhon\n2.Shenar");
 
@@ -32,9 +33,11 @@ namespace Learning_02_04
             }
 
             Console.Clear();
-
+            //asking the player to choose race
             Console.WriteLine("Pick your race");
             Console.WriteLine("1.Shadonn\n2.Shenar");
+
+             input = int.Parse(Console.ReadLine());
 
             switch (input)
             {
