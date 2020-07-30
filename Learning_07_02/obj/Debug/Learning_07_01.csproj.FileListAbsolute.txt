@@ -1,0 +1,7 @@
+F:\!_!inScope Game Programming School\Jony learns Game Code\Jony Learns Game Code\Learning_07_02\bin\Debug\Learning_07_02.exe.config
+F:\!_!inScope Game Programming School\Jony learns Game Code\Jony Learns Game Code\Learning_07_02\bin\Debug\Learning_07_02.exe
+F:\!_!inScope Game Programming School\Jony learns Game Code\Jony Learns Game Code\Learning_07_02\bin\Debug\Learning_07_02.pdb
+F:\!_!inScope Game Programming School\Jony learns Game Code\Jony Learns Game Code\Learning_07_02\obj\Debug\Learning_07_01.csprojAssemblyReference.cache
+F:\!_!inScope Game Programming School\Jony learns Game Code\Jony Learns Game Code\Learning_07_02\obj\Debug\Learning_07_01.csproj.CoreCompileInputs.cache
+F:\!_!inScope Game Programming School\Jony learns Game Code\Jony Learns Game Code\Learning_07_02\obj\Debug\Learning_07_02.exe
+F:\!_!inScope Game Programming School\Jony learns Game Code\Jony Learns Game Code\Learning_07_02\obj\Debug\Learning_07_02.pdb

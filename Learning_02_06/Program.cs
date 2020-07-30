@@ -8,6 +8,7 @@ namespace _02_06
 {
     class Program
     {
+
         static void Main(string[] args)
         {
             //A while runs based on a condition
